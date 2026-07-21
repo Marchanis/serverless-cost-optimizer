@@ -1,0 +1,6 @@
+.terraform/
+terraform.tfstate
+terraform.tftate.backup
+terraform.tfvars
+lambda.zip
+output.json
