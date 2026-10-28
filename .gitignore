@@ -4,3 +4,5 @@ terraform.tftate.backup
 terraform.tfvars
 lambda.zip
 output.json
+__pycache__
+.pytest_cache/
